@@ -1,0 +1,9 @@
+data/
+zip_files/
+neuroxvocal/
+test.ipynb
+**/__pycache__/
+**/inference_ADReSSo21/
+app/recordings/*
+references.txt
+literature_pdf/
